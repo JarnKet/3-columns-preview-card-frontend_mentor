@@ -138,6 +138,8 @@ button:hover {
     height: 1250px;
 
     flex-direction: column;
+
+    margin: 5rem auto;
   }
   .content {
     width: 100%;
